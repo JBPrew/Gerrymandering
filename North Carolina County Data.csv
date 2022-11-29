@@ -1,0 +1,101 @@
+County,Population 2010,Population 2020,Neighboring Counties,2010 District
+Alamance,151131,171415,"Guilford, Randolph, Chatham, Orange, Caswell",6
+Alexander,37198,36444,"Wilkes, Caldwell, Catawba, Iredell",5
+Alleghany,11155,10888,"Ashe, Wilkes, Surry",5
+Anson,26948,22055,"Union, Stanly, Richmond",8
+Ashe,27281,26577,"Watauga, Wilkes, Alleghany",5
+Avery,17797,17806,"Mitchell, McDowell, Burke, Caldwell, Watauga",11
+Beaufort,47759,44652,"Martin, Washington, Hyde, Pamlico, Craven, Pitt",3
+Bertie,21282,17934,"Hertford, Chowan, Washington, Martin, Halifax, Northampton",1
+Bladen,35190,29606,"Robeson, Columbus, Pender, Sampson, Cumberland",7
+Brunswick,107431,136693,"Columbus, Pender, New Hanover",7
+Buncombe,238318,269452,"Haywood, Madison, Yancey, McDowell, Rutherford, Henderson",10
+Burke,90912,87570,"Avery, McDowell, Rutherford, Cleveland, Catawba, Caldwell",11
+Cabarrus,178011,225804,"Mecklenburg, Iredell, Rowan, Stanly, Union",12
+Caldwell,83029,80652,"Avery, Watauga, Wilkes, Alexander, Catawba, Burke",11
+Camden,9980,10355,"Gates, Currituck, Pasquotank",1
+Carteret,66469,67686,"Hyde, Pamlico, Craven, Jones, Onslow",3
+Caswell,23719,22736,"Rockingham, Alamance, Orange, Person",6
+Catawba,154358,160610,"Burke, Caldwell, Alexander, Iredell, Lincoln",10
+Chatham,63505,76285,"Randolph, Alamance, Orange, Durham, Wake, Harnett, Lee, Moore",4
+Cherokee,27444,28774,"Graham, Macon, Clay",11
+Chowan,14793,13708,"Perquimans, Washington, Bertie, Hertford, Gates",1
+Clay,10587,11089,"Cherokee, Macon",11
+Cleveland,98078,99519,"Rutherford, Burke, Lincoln, Gaston",10
+Columbus,58098,50623,"Bladen, Brunswick, Pender, Robeson",7
+Craven,103505,100720,"Pitt, Beaufort, Pamlico, Carteret, Jones, Lenoir",3
+Cumberland,319431,334728,"Harnett, Sampson, Bladen, Robeson, Hoke, Moore",4
+Currituck,23547,28100,"Camden, Dare, Tyrrell",1
+Dare,33920,36915,"Currituck, Tyrrell, Hyde",3
+Davidson,162878,168930,"Forsyth, Davie, Rowan, Montgomery, Randolph, Guilford",12
+Davie,41240,42712,"Forsyth, Yadkin, Iredell, Rowan, Davidson",5
+Duplin,58505,48715,"Sampson, Wayne, Lenoir, Jones, Onslow, Pender",7
+Durham,267587,324833,"Orange, Person, Granville, Wake, Chatham",1
+Edgecombe,56552,48900,"Halifax, Martin, Pitt, Wilson, Nash",1
+Forsyth,350670,382590,"Stokes, Yadkin, Davie, Davidson, Guilford",12
+Franklin,60619,68573,"Granville, Vance, Warren, Nash, Wake",13
+Gaston,206086,227943,"Cleveland, Lincoln, Mecklenburg",10
+Gates,12197,10478,"Hertford, Chowan, Perquimans, Pasquotank, Camden",1
+Graham,8861,8030,"Cherokee, Macon, Swain",11
+Granville,59916,60992,"Vance, Franklin, Durham, Person",1
+Greene,21362,20451,"Pitt, Lenoir, Wayne, Wilson",3
+Guilford,488406,541299,"Rockingham, Alamance, Randolph, Davidson, Forsyth",12
+Halifax,54691,48622,"Northampton, Bertie, Martin, Edgecombe, Nash, Warren",1
+Harnett,114678,133568,"Lee, Chatham, Wake, Johnston, Sampson, Moore",4
+Haywood,59036,62089,"Swain, Jackson, Transylvania, Buncombe, Madison",11
+Henderson,106740,116281,"Transylvania, Buncombe, Rutherford, Polk",11
+Hertford,24669,21552,"Gates, Chowan, Bertie, Northampton",1
+Hoke,46952,52082,"Moore, Cumberland, Robeson, Scotland",2
+Hyde,5810,4589,"Dare, Tyrrell, Washington, Beaufort, Pamlico, Carteret",3
+Iredell,159437,186693,"Alexander, Catawba, Lincoln, Mecklenburg, Cabarrus, Rowan, Davie, Yadkin, Wilkes",9
+Jackson,40271,43109,"Macon, Swain, Haywood, Transylvania",11
+Johnston,168878,215999,"Wake, Wilson, Wayne, Sampson, Harnett",7
+Jones,10153,9172,"Craven, Carteret, Onslow, Duplin, Lenoir",3
+Lee,57866,63285,"Chatham, Moore, Harnett",2
+Lenoir,59495,55122,"Greene, Pitt, Craven, Jones, Duplin, Wayne",7
+Lincoln,78265,86810,"Cleveland, Catawba, Gaston, Mecklenburg, Iredell",10
+McDowell,44996,44578,"Buncombe, Yancey, Mitchell, Avery, Burke, Rutherford",11
+Macon,33922,37014,"Clay, Cherokee, Graham, Swain, Jackson",11
+Madison,20764,21193,"Haywood, Buncombe, Yancey",11
+Martin,24505,22031,"Bertie, Washington, Beaufort, Pitt, Edgecombe, Halifax",3
+Mecklenburg,919628,1115482,"Gaston, Lincoln, Iredell, Cabarrus, Union",12
+Mitchell,15579,14903,"Yancey, McDowell, Avery",11
+Montgomery,27798,25751,"Stanly, Davidson, Randolph, Moore, Richmond",8
+Moore,88247,99727,"Montgomery, Richmond, Hoke, Cumberland, Harnett, Lee, Chatham, Randolph",2
+Nash,95840,94970,"Franklin, Halifax, Edgecombe, Wilson, Johnston",13
+New Hanover,202667,225702,"Pender, Brunswick",7
+Northampton,22099,17471,"Hertford, Bertie, Halifax, Warren",1
+Onslow,177772,204576,"Carteret, Jones, Duplin, Pender",3
+Orange,133801,148696,"Alamance, Caswell, Person, Durham, Chatham",4
+Pamlico,13144,12276,"Beaufort, Hyde, Carteret, Craven",3
+Pasquotank,40661,40568,"Camden, Tyrrell, Perquimans, Gates",1
+Pender,52217,60203,"Onslow, Duplin, Sampson, Bladen, Columbus, Brunswick, New Hanover",3
+Perquimans,13453,13005,"Pasquotank, Gates, Chowan",1
+Person,39464,39097,"Caswell, Orange, Durham, Granville",6
+Pitt,168148,170243,"Edgecombe, Martin, Beaufort, Craven, Lenoir, Greene, Wilson",3
+Polk,20510,19328,"Henderson, Rutherford",10
+Randolph,141752,144171,"Guilford, Alamance, Chatham, Moore, Montgomery, Davidson",2
+Richmond,46639,42946,"Anson, Montgomery, Moore, Scotland",8
+Robeson,134168,116530,"Columbus, Bladen, Cumberland, Hoke, Scotland",8
+Rockingham,93643,91096,"Stokes, Guilford, Caswell",6
+Rowan,138428,146875,"Iredell, Davie, Davidson, Stanly, Cabarrus",12
+Rutherford,67810,64444,"Polk, Henderson, Buncombe, McDowell, Burke, Cleveland",10
+Sampson,63431,59036,"Johnston, Wayne, Duplin, Pender, Bladen, Cumberland, Harnett",7
+Scotland,36157,34174,"Robeson, Hoke, Richmond",8
+Stanly,60585,62504,"Cabarrus, Rowan, Montgomery, Anson, Union",8
+Stokes,47401,44520,"Rockingham, Forsyth, Surry",6
+Surry,73673,71359,"Alleghany, Wilkes, Yadkin, Stokes",6
+Swain,13981,14117,"Graham, Macon, Jackson, Haywood",11
+Transylvania,33090,32986,"Jackson, Haywood, Henderson",11
+Tyrrell,4407,3245,"Dare, Hyde, Washington",3
+Union,201292,238267,"Mecklenburg, Cabarrus, Stanly, Anson",8
+Vance,45422,42578,"Granville, Franklin, Warren",1
+Wake,900993,1129410,"Franklin, Johnston, Harnett, Chatham, Durham, Granville",4
+Warren,20972,18642,"Vance, Franklin, Halifax, Northampton",1
+Washington,13228,11003,"Chowan, Perquimans, Tyrrell, Hyde, Beaufort, Martin, Bertie",3
+Watauga,51079,54086,"Avery, Caldwell, Wilkes, Ashe",5
+Wayne,122623,117333,"Johnston, Wilson, Greene, Lenoir, Duplin, Sampson",13
+Wilkes,69340,65969,"Ashe, Watauga, Caldwell, Alexander, Iredell, Yadkin, Surry, Alleghany",5
+Wilson,81234,78784,"Edgecombe, Pitt, Greene, Wayne, Johnston, Nash",13
+Yadkin,38406,37214,"Surry, Forsyth, Davie, Wilkes, Iredell",5
+Yancey,17818,18470,"Madison, Buncombe, McDowell, Mitchell",11
